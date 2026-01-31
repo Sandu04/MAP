@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  password-tool:
+    image: sandu04/password-tool:latest
+    command: --help
