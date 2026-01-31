@@ -1,0 +1,26 @@
+# PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Password files
+password_history.enc
+common_passwords.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
